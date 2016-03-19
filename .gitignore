@@ -32,8 +32,3 @@ qrc_*.cpp
 build
 
 !src/leveldb*/Makefile
-
-share/pixmaps/bitcoin16.png
-share/pixmaps/bitcoin256.png
-share/pixmaps/bitcoin64.png
-share/pixmaps/bitcoin32.png
