@@ -1,7 +1,7 @@
 Universecoin integration/staging tree
 ================================
 
-http://www.Universecoin.org
+http://www.un-coin.org
 
 Copyright (c) 2009-2014 Bitcoin Developers
 Copyright (c) 2011-2014 Universecoin Developers
@@ -19,7 +19,7 @@ The rest is the same as Bitcoin.
  - 2016 blocks to retarget difficulty
 
 For more information, as well as an immediately useable, binary version of
-the Universecoin client sofware, see http://www.Universecoin.org.
+the Universecoin client sofware, see http://www.un-coin.org.
 
 License
 -------
